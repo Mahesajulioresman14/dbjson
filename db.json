@@ -1,14 +1,14 @@
 {
     "users":[
         {
-            "Id": 1,
+            "id": 1,
             "Nama": "Reyhan febrizio resman",
             "umur": 17,
             "Alamat": "Bandung",
             "noHP": "083882481983"
           },
           {
-            "Id": 2,
+            "id": 2,
             "Nama": "Mahesa julio resman",
             "umur": 15,
             "Alamat": "Bandung",
